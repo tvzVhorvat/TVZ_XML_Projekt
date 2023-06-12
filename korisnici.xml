@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <username>Ime1</username>
+	<fullname>ante antic</fullname>
+    <password>lozinka</password>
+  </user>
+	<user id="2">
+		<username>vhorvat</username>
+		<fullname>dascyx</fullname>
+		<password>lozinka2</password>
+	</user>
+	<user id="3">
+		<username>Test3</username>
+		<fullname>Ime</fullname>
+		<password>LozTest</password>
+	</user>
+	<user id="4">
+		<username>Test4</username>
+		<fullname>jhf</fullname>
+		<password>LozProv</password>
+	</user>
+	<user id="5">
+		<username>IdTest</username>
+		<fullname>IDTest</fullname>
+		<password>test</password>
+	</user>
+<user id="6"><username>GitTestovi</username><fullname>GitTest</fullname><password>GitHub</password></user></users>

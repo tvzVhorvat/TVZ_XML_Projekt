@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proizvodi>
+    <Proizvod idP="1">
+        <Naziv>Farming Simulator 22</Naziv>
+        <Slika>"slike/FS.jpg"</Slika>
+        <Cijena>24.99</Cijena>
+        <Opis>Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.</Opis>
+        <Tags>
+            <Tag>Simulation </Tag>
+            <Tag>Co-op </Tag>
+            <Tag>Farming Sim </Tag>
+            <Tag>Agriculture</Tag>
+            <!--test -->
+        </Tags>
+    </Proizvod>
+
+
+    <Proizvod idP="2">
+        <Naziv>Assassin's Creed Valhalla</Naziv>
+        <Slika>"slike/ACV.jpg"</Slika>
+        <Cijena>59.99</Cijena>
+        <Opis>Become a legendary Viking on a quest for glory. Raid your enemies, grow your settlement, and build your political power.</Opis>
+        <Tags>
+            <Tag>Action </Tag>
+            <Tag>Open World </Tag>
+            <Tag>RPG </Tag>
+            <Tag>Adventure</Tag>
+            <!--primjer -->
+        </Tags>
+    </Proizvod>
+
+     <Proizvod idP="3">
+        <Naziv>Red Dead Redemption 2</Naziv>
+        <Slika>"slike/RDR2.jpg"</Slika>
+        <Cijena>70.00</Cijena>
+        <Opis>RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age</Opis>
+        <Tags>
+            <Tag>Open World </Tag>
+            <Tag>Story Rich </Tag>
+            <Tag>Western </Tag>
+            <!--primjer -->
+        </Tags>
+    </Proizvod>
+
+
+    <Proizvod idP="4">
+        <Naziv>Street Fighter 6</Naziv>
+        <Slika>"slike/SF.jpg"</Slika>
+        <Cijena>59.99</Cijena>
+        <Opis>Here comes Capcom's newest challenger! Street Fighter 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighte series!</Opis>
+        <Tags>
+            <Tag>2D Fighter </Tag>
+            <Tag>Action </Tag>
+            <Tag>Fighting </Tag>
+            <!--primjer -->
+        </Tags>
+    </Proizvod>
+
+    <Proizvod idP="5">
+        <Naziv>Counter-Strike: Global Offensive</Naziv>
+        <Slika>"slike/CSGO.jpg"</Slika>
+        <Cijena>0.00</Cijena>
+        <Opis>Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago</Opis>
+        <Tags>
+            <Tag>FPS </Tag>
+            <Tag>Shooter </Tag>
+            <Tag>Multiplayer </Tag>
+            <Tag>Competitive</Tag>
+            <!--primjer -->
+        </Tags>
+    </Proizvod>
+
+
+    <Proizvod idP="6">
+        <Naziv>Forza Horizon 4</Naziv>
+        <Slika>"slike/Forza.jpg"</Slika>
+        <Cijena>23.09</Cijena>
+        <Opis>Dynamic seasons change everything at the world's
+         greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world</Opis>
+        <Tags>
+            <Tag>Racing </Tag>
+            <Tag>Open World </Tag>
+            <Tag>Driving </Tag>
+            <Tag>Multiplayer </Tag>
+            <Tag>PvP </Tag>
+            <!--primjer -->
+        </Tags>
+    </Proizvod>
+    
+</Proizvodi>
